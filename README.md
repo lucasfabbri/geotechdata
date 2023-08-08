@@ -7,6 +7,10 @@ Downloading and processing geotechnical investigation data from Norways Database
 ## Notebook 1 - Interpreting u0 (in-situ pore pressure) from CPT data
 Experimenting with interpreting u0 based on measured u2 in CPTu data.
 
+![image](https://github.com/lucasfabbri/geotechdata/assets/25036638/54ed3bf2-4860-48f0-a705-f54fe124fab6)
+![image](https://github.com/lucasfabbri/geotechdata/assets/25036638/89b4b4da-973f-4036-bb76-32e15fbcf530)
+
+
 ## Notebook 2 - Exploring correlations in laboratory, total sounding, and CPT data 
 Exploring how the dataset compares with existing classification and correlation schemes.
 
