@@ -19,6 +19,8 @@ Exploring how the dataset compares with existing classification and correlation 
 ### Examples:
 Robertson et al. (1986) non-normalized SBT vs Visual Description Classification 
 1370 total visual descriptions reported as representative of 1577.4 m of CPT data
+
+
 ![image](https://github.com/lucasfabbri/geotechdata/assets/25036638/c40d597f-f09c-4543-a087-68b76c3f044f)
 
 
