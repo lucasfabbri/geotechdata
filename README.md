@@ -27,8 +27,7 @@ Robertson et al. (1986) non-normalized SBT vs Visual Description Classification
 Robertson et al. (1986) non-normalized SBT vs Grain Size Features
 256 total grain size distributions reported as representative of 183.1 m of CPT data
 
-![image]
-(https://github.com/lucasfabbri/geotechdata/assets/25036638/a78521cf-8c3e-492e-9c65-a4247cb0cd1e)
+![image](https://github.com/lucasfabbri/geotechdata/assets/25036638/a78521cf-8c3e-492e-9c65-a4247cb0cd1e)
 
 ## Notebook 3 - Exploring what data is present in the various Quick Clay Hazard Zones
 
