@@ -17,17 +17,21 @@ Experimenting with interpreting u0 based on measured u2 in CPTu data.
 Exploring how the dataset compares with existing classification and correlation schemes.
 
 ### Examples:
-Robertson et al. (1986) non-normalized SBT vs Visual Description Classification 
-1370 total visual descriptions reported as representative of 1577.4 m of CPT data
+Robertson (2009) updated non-normalized SBT vs Visual Description Classification 
+1370 total visual descriptions reported as representative of 1577.4 m of CPT data (1310 used in plot)
 
+![image](https://github.com/lucasfabbri/geotechdata/assets/25036638/4e655c69-2c04-4189-9482-99060186ee94)
 
-![image](https://github.com/lucasfabbri/geotechdata/assets/25036638/c40d597f-f09c-4543-a087-68b76c3f044f)
 
 
 Robertson et al. (1986) non-normalized SBT vs Grain Size Features
 256 total grain size distributions reported as representative of 183.1 m of CPT data
 
 ![image](https://github.com/lucasfabbri/geotechdata/assets/25036638/a78521cf-8c3e-492e-9c65-a4247cb0cd1e)
+
+
+Haugen et al. (2016) Total Sounding Classification System and  Visual Description Classification
+![image](https://github.com/lucasfabbri/geotechdata/assets/25036638/0e4c4996-9d53-4322-bdf4-7d4a8c059545)
 
 ## Notebook 3 - Exploring what data is present in the various Quick Clay Hazard Zones
 
