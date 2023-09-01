@@ -6,12 +6,12 @@ Downloading and processing geotechnical investigation data from Norways Database
 
 ## Notebook 1 - Interpreting u0 (in-situ pore pressure) from CPT data
 Experimenting with interpreting u0 based on measured u2 in CPTu data.
+Establishd a baseline results that estimate u0 based on assuming the groundwater table is 2 m below the start of the CPT, an analytical method to fit a curve, and a XGBoost based method.
 
-![image](https://github.com/lucasfabbri/geotechdata/assets/25036638/cb1f6e72-c0b6-41d5-ad73-80b86487b79d)
-
-![image](https://github.com/lucasfabbri/geotechdata/assets/25036638/6e95fce1-9ac6-4d8b-a318-ca8b9bcf368d)
-
-
+Using an XGBoost model (trained on a dataset from Premstaller) to predict u0 results with a RMSE of 8 kPa on the NADAG dataset  - which is an improvement both on the constant depth assumption and my analytical method.
+![image](https://github.com/lucasfabbri/geotechdata/assets/25036638/b5c6be33-c3c1-4fb2-a82d-e33f08fa2b95)
+![image](https://github.com/lucasfabbri/geotechdata/assets/25036638/977a235b-5636-40cf-a0c3-81d36ebb9410)
+Median error: 7.93 Average error: 12.52 Max error: 114.68
 
 ## Notebook 2 - Exploring correlations in laboratory, total sounding, and CPT data 
 Exploring how the dataset compares with existing classification and correlation schemes.
